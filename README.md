@@ -60,6 +60,10 @@ If the user doesn't type a movie in, the program will output data for the movie 
 * DotEnv (npm module)
 * Inquirer (npm module)
 
+Authors
+-
+Geri Craig
+
 Copyright
 (C) gericraig 2018. All Rights Reserved.
 
