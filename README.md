@@ -4,10 +4,6 @@ About
 -
 Liri stands for Language Interpretation and Recognition Interface. It is a command line nope app that takes in parameters and gives back data.
 
-Motivation
--
-This is a project at the Berkeley Bootcamp where we are learning to implement node.js.
-
 What it does
 -
 Spotify
@@ -63,9 +59,3 @@ If the user doesn't type a movie in, the program will output data for the movie 
 Authors
 -
 Geri Craig
-
-Copyright
-(C) gericraig 2018. All Rights Reserved.
-
-
-
